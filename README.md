@@ -1,6 +1,8 @@
 # XMR miner GUI
 Simply mine Monero (XMR) with your CPU controlled via a graphical user interface.
 
+![Status tab - Monero XMR miner GUI](https://dashboard.snapcraft.io/site_media/appmedia/2018/03/xmr_cpu_miner_1.png "Status tab - Monero XMR miner GUI")
+
 Use the Github issues to report any problems and include the terminal output of `uname -a`.  
 Your feedback and ideas are very appreciated.
 
@@ -8,7 +10,6 @@ Your feedback and ideas are very appreciated.
 
 Good mining,  
 LuNaCrypt
-
 
 Support this project:  
 XMR: 45WK8yivtH9fzNd2abuPvnQuiyj1D4Kji7BngXD2DV3pgMPPfsWok5ejhuqokL28yxU5n29kS9Y6sCUGqSjXcFwZTPeY8gp  
