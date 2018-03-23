@@ -22,6 +22,8 @@ BTC: 14YuNu3LwYqMhq7ihhkmV14ghs453dHfpf
 
 Check out the [xmr-miner-gui snap info page (free)](https://snapcraft.io/xmr-miner-gui) in the official snap store (free).
 
+If you do not have the snap core installed on your system yet, follow the [snap installation guide](https://docs.snapcraft.io/core/install) for your linux distro.
+
 ### Using the command line
     sudo snap install xmr-miner-gui
     xmr-miner-gui
